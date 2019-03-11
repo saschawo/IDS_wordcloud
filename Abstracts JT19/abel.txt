@@ -1,0 +1,18 @@
+Ausgehend von der Frage, ob und inwiefern sich das Schreiben kürzerer Texte in interaktionsbasierter Online-Kommunikation langfristig auf das Schreiben monologischer Texte, vor allem in
+normgebundenen Situationen, auswirkt (u. a. Dürscheid & Fricke 2016, Storrer 2017), hat sich
+das Projekt MIT.Qualität (https://mitqualitaet.com/) mit der Frage nach Methoden zur Messung
+von Textqualität im digitalen Zeitalter und den damit verbundenen theoretischen Herausforderungen zur Bestimmung von Textqualität beschäftigt.
+Ein Schwerpunkt des empirischen Teils des Projekts war die Untersuchung von Kohäsion und
+Kohärenz als einem Kennzeichen von Textqualität (Becker-Mrotzek et al. 2014). In interaktionsbasierten Online-Texten treten zusätzlich zu traditionellen Mitteln zur Herstellung von Textkohärenz weitere Kohärenzbildungsaspekte zutage. Neben digitalen Kohärenzbildungshilfen
+(Links, Hashtags u. a.) ist dabei auch an (sprachliche) Mittel zur Herstellung multimodaler und
+interaktionaler Kohärenz zu denken.
+Der Vortrag präsentiert empirische Daten aus einer Korpus-Vergleichsstudie, in der die
+Verwendung ausgewählter Konnektoren (1) in einem Facebook-Korpus (Frey, Glaznieks &
+Stemle 2016) quantitativ und qualitativ analysiert und (2) mit der Verwendung in dialogischen
+Texten eines anderen Online-Genres (Wikipedia, Margaretha & Lüngen 2014) einerseits und in
+monologischen Texten wie Zeitungskommentaren (DEREKO) und Schülertexten (Abel et al.
+2016) anderseits mit korpuslinguistischen Methoden verglichen wurden. Die
+forschungsleitenden Fragen dabei waren, (1) in welcher Form Konnektoren zur Herstellung von
+Kohäsion und Kohärenz in interaktionsbasierten Online-Texten eingesetzt werden und (2) ob
+„Spuren“ von typischen Online-Verwendungen auch in normgebundener Umgebung
+nachweisbar sind. 

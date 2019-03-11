@@ -1,0 +1,16 @@
+Der Vortrag behandelt die (fast schon „klassische“) Frage, welche Perspektive auf die Organisation sprachlichen Handelns – die der Interaktion oder die des Textes – eine fruchtbare
+Grundlage für die Analyse der Sprachverwendung in der internetbasierten Kommunikation
+bildet. Auf den ersten Blick scheint die Frage trivial: Die Kommunikation in Chats und
+WhatsApp, in Online-Foren oder auf Wikipedia-Diskussionsseiten ist dialogisch organisiert,
+und den von den Beteiligten ausgetauschten Beiträgen (den ‚Postings?) kann unterstellt werden, dass sie für die Realisierung einer Position in einer sequenziellen Handlungsabfolge mit
+systematischem Wechsel der Beteiligungsrollen konzipiert sind.
+Wechselt man die Perspektive und betrachtet man die genannten Kommunikationsformen
+ausgehend von den Zeitlichkeitsbedingungen, unter denen in ihnen sprachlicher Austausch
+ermöglicht wird, werden Charakteristika, die als fundamental für mündliche Gespräche gelten
+– die Flüchtigkeit, die Irreversibilität, die Synchronisierung sowie daraus resultierend die
+Emergenz und Inkrementalität des Strukturaufbaus –, problematisch, während Merkmale des
+sprachlichen Handelns mit Texten – die Reflexivität und Rekursivität der Verbalisierung, die
+Visualität, die Segmentalität, die Flächigkeit und die Persistenz ihrer Produkte – salient werden. Es lohnt sich, bei der Analyse und Modellierung von Instanzen internetbasierter Kommunikation beide Perspektiven zusammenzubringen: die der Interaktion, um ihre teilnehmerseitige Konzeption zu beschreiben, die des Textes (oder präziser: von Textformen), um die
+Spezifik der Produktion sowie daraus resultierende Merkmale der Asynchronie zu erfassen.
+Im Vortrag wird aus der Analyse der Zeitlichkeitsbedingungen ein Vorschlag entwickelt, wie
+sich die beiden Perspektiven verbinden lassen, um die Spezifik internetbasierter Kommunikation (1) für die datengestützte Analyse von Kommunikationsereignissen und der darin vorfindlichen sprachlichen und kommunikativen Praktiken nutzbar und (2) bei der texttechnologischen Modellierung und Annotation von Social-Media-Korpora darstellbar zu machen. 

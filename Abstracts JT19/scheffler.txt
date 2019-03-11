@@ -1,0 +1,7 @@
+Konversationen sind eine zentrale Ausprägung gesprochener Sprache, aber sie existieren auch in sozialen Medien, wo Menschen spontan miteinander kommunizieren.
+Wir stellen verschiedene Analysen zur Variabilität in Diskursen in sozialen Medien
+vor, die im Rahmen unseres Projektes im Sonderforschungsbereich 1287 "Grenzen
+der Variabilität in der Sprache"[1] durchgeführt werden. Aufbauend auf Untersuchungen der Diskursstruktur in Twitterkonversatione zeigen wir hier zwei Arten von Phänomenen: 1. Solche, die typisch für gesprochene Sprache sind, aber in sozialen Medien auch präsent sind und dort andere Bedeutungen und Verteilungen zeigen: Hier
+zeigen wir eine Korpusstudie der Frageanhängsel wie "oder?" und "ne?" Die Verwendung dieser Frageanhängsel variiert stark mit dem Wechsel vom gesprochenen
+Medium in die sozialen Medien. 2. Als Beispiel für Phänomene, die speziell in sozialen Medien relevant sind, zeigen wir aktuelle Untersuchungen zur Verwendung von
+Emoji und Emoticons auf Twitter und in Telefon-Chats. 

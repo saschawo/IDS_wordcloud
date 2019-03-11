@@ -1,0 +1,21 @@
+Der Vortrag untersucht vorhandene Lösungen und neue Möglichkeiten des Korpusausbaus aus
+Social-Media und internetbasierter Kommunikation (IBK) für das Deutsche Referenzkorpus
+(DeReKo), die Sammlung gegenwartssprachlicher Schriftkorpora am IDS, die der
+sprachwissenschaftlichen Öffentlichkeit über die Korpusschnittstellen COSMAS II und KorAP
+angeboten wird.
+Anhand von Merkmalen und Beispielen gehen wir zunächst auf die Extensionen und
+Überlappungen der Konzepte Social-Media-Korpora, Korpora internetbasierter Kommunikation
+und Webkorpora ein. Wir betrachten die rechtlichen Voraussetzungen für einen Korpusausbau aus
+sozialen Medien, die sich aus dem kürzlich in relevanten Punkten reformierten deutschen
+Urheberrecht, aus Leistungsschutzrechten und Persönlichkeitsrechten wie der EU-DSGVO
+ergeben und stellen Konsequenzen und mögliche und tatsächliche Umsetzungen dar. Der Aufbau
+von Social-Media-Korpora in großen Textmengen stellt außerdem korpustechnologische
+Herausforderungen, die für traditionelle Schriftkorpora als gelöst galten oder gar nicht erst
+bestanden. Wir berichten, wie Fragen der Datenaufbereitung, des Corpus Encoding, der
+Anonymisierung oder der linguistischen Annotation von Social-Media-Korpora für DeReko
+angegangen wurden.
+Wir betrachten die Korpuslandschaft verfügbarer deutschsprachiger IBK- und Social-MediaKorpora und geben einen Überblick über den Bestand an IBK- und Social-Media-Korpora und ihre
+Charakteristika (Chat-, Wiki Talk- und Forenkorpora) in DeReKo sowie von laufenden Projekten in
+diesem Bereich. Anhand zweier Studien zu Zeitverläufen und diskursrelevanten Kollokationen in
+IBK- versus Zeitungskorpora demonstrieren wir die Relevanz von IBK- und Social-Media-Korpora
+für die Untersuchung der deutschen Gegenwartssprache. 

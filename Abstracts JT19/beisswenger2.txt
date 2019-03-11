@@ -1,0 +1,22 @@
+Wir präsentieren die für Forschung und Lehre nutzbare Ressource „Mobile Communication Database 2“ (MoCoDa2), die zweierlei bereitstellt:
+a) eine Datenbank, ein Web-Frontend und ein Prozedere für die Sammlung von
+Mobile-Messaging-Interaktionen, mit der Interaktionsausschnitte spendenbasiert erfasst, mit Metadaten angereichert, pseudonymisiert, um Beschreibungen zu enthaltenen Mediendateien ergänzt sowie anschließend sprachtechnologisch aufbereitet
+werden. Der Workflow und die dafür entwickelten Ressourcen können in Lehrveranstaltungen mit forschungsmethodischer Ausrichtung genutzt werden, um zu verdeutlichen, welche Aufbereitungsschritte erforderlich sind, um sprachliche Rohdaten in
+eine Form zu überführen, die für Dritte sinnvoll als empirische Grundlage für korpusbasierte qualitative und quantitative Untersuchungen nutzbar sind.
+b) ein (stetig wachsendes und erweiterbares) Korpus mit pseudonymisierten Mobile-Messaging-Interaktionen, das um Metadaten und Annotationen angereichert ist
+und online über ein Recherche-Frontend abgefragt werden kann. Das Korpus kann in
+der linguistischen Forschung und Lehre als Datenbasis für die Analyse emergenter
+sprachlicher und kommunikativer Praktiken in schriftlichen Alltagsinteraktionen eingesetzt werden. Für die Bereiche Sprachdidaktik und DaF/DaZ sowie für den schulischen Deutschunterricht bildet es eine Ressource, um an authentischen Sprachbeispielen Phänomene sprachlicher Variation und sprachlichen Wandels in und anhand
+der internetbasierten Kommunikation zu zu thematisieren und dazu Unterrichtsmaterialien zu entwickeln.
+MoCoDa2 wird als freie Ressource für die linguistische und sprachdidaktische Forschung und Lehre zur Verfügung gestellt. Die konzeptionellen Vorarbeiten und die
+Entwicklung von MoCoDa2 wurden im Förderprogramm „Infrastrukturelle Förderung
+für die Geistes- und Gesellschaftswissenschaften“ durch das Ministerium für Kultur
+und Wissenschaft des Landes Nordrhein-Westfalen unterstützt. Neben der Bereitstellung auf einem Projektserver sollen die gespendeten Daten perspektivisch auch in
+die CLARIN-D-Sprachressourceninfrastrukturen und in die Korpussammlung des
+Deutschen Referenzkorpus (DeReKo) am Institut für Deutsche Sprache/Mannheim
+(IDS) integriert werden, um dort vergleichend mit vorhandenen Textkorpora und anderen Korpora digitaler Kommunikation analysiert werden zu können. 
+Im Rahmen des „Kaleidoskops“ sollen anhand einer Live-Demo das Prozedere für
+die Erfassung und Aufbereitung von WhatsApp-Sequenzen sowie die Möglichkeiten
+für die Abfrage der Korpusdaten vorgeführt werden. Das Projektteam freut sich über
+Kontakt mit Anwenderinnen und Anwendern, die interessiert sind, MoCoDa2 in eigenen Forschungsprojekten und Lehrveranstaltungen einzusetzen und den weiteren
+Ausbau der Datenbank mit Datenspenden zu unterstützen. 

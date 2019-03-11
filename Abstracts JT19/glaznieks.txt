@@ -1,0 +1,14 @@
+Das DiDi-Korpus ist eine Sammlung von soziolinguistisch und computerlinguistisch
+aufbereiteten Facebook-Statusmeldungen, -Kommentaren und -Chatnachrichten. Alle Texte
+stammen von privaten Profilen von 136 Schreiberinnen und Schreibern aus Südtirol und stellen
+deren gesamte Facebook-Kommunikation des Jahres 2013 dar. Die Schreiberinnen und
+Schreiber geben überwiegend Deutsch als ihre Erstsprache an (108/136) und verteilen sich auf
+unterschiedliche Altersgruppen. Neben der breiten Altersspanne der Schreiberinnen und
+Schreiber (14-74 Jahre) zeichnet sich das Korpus vor allem durch regionale Eigenheiten wie
+seinem hohen Anteil dialektaler und mehrsprachiger Texte (besonders Deutsch, Italienisch und
+Englisch) aus. Das Korpus ist frei zugänglich und kann über eine ANNIS-Suchoberfläche
+durchsucht oder als XML bzw. JSON heruntergeladen werden
+(https://commul.eurac.edu/annis/didi).
+Auf der Methodenmesse werden wir das Korpus und daran durchgeführte Fallstudien vorstellen
+und Einblick in vorhandene Annotationen sowie in die Suchfunktionen der Korpusoberfläche
+geben.

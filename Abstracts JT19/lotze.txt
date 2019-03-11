@@ -1,0 +1,22 @@
+Künstliche Intelligenzen wie Apples Assistenzsystem Siri oder Amazons Alexa halten Einzug in
+unseren Alltag, Chatbots und Social-Bots wie der Twitter-Bot Tay nehmen Einfluss auf
+öffentliche Diskurse und interaktives Spielzeug mit Dialogfunktion führt bereits unsere Jüngsten
+an die Interaktion mit dem artifiziellen Gegenüber heran. Hier entsteht eine völlig neue Form der
+Dialogizität, die wir noch kaum verstehen.
+Der Stand zeigt Ansätze für Methoden-Mix-Studien zur Analyse von Mensch-MaschineInteraktionen, die von qualitativer Gesprächsforschung, über quantitative Korpus-Verfahren bis
+zu psycholinguistischen und phonologischen Experiment-Designs reichen. Erst durch die
+methodologisch konsistent zusammengeführten Ansätze kann eine aussagekräftige
+Erstbeschreibung dieser neuen Form der Dialogizität auf unterschiedlichen linguistischen
+Ebenen erfolgen (Phonologie, Lexik, Syntax, Semantik, Dialogkohärenz, Userperzeption,
+medienlinguistische Faktoren), die stets Grundlage für jegliche Diskussion der Potenziale und
+Gefahren dieser innovativen Technologien sein sollte.
+Am Stand werden zwei Methoden-Mix-Studien (Gesprächsforschung / Korpuslinguistik) zur
+medial schriftlichen Mensch-Maschine-Interaktion vorgestellt, in deren Rahmen das sprachliche
+Verhalten von NutzerInnen gegenüber a) Chatbots (Lotze 2016) und b) „Social Bots“ (Lotze i.
+V.) analysiert wurde. Ferner wird ein experimentelles Verfahren zur Erhebung und Analyse von
+medial mündlicher Mensch-Maschine-Interaktion mit Amazons Alexa (Phonologie / Thematische
+Progression / Störungsmanagement) vorgeführt (Konstantinova i.V.).
+Um die Grundlagenforschung unmittelbar an Anwendungsszenarien anzubinden, werden
+Projekte zur linguistisch sensitiven Programmierung von Chatbots gezeigt (u.a. Naviki, Lotze &
+Neufeld i.V.), da Theorie und Praxis in der Mensch-Maschine-Interaktionsforschung idealiter
+Hand in Hand gehen sollten. 

@@ -1,0 +1,4 @@
+KorAP wird als Nachfolgesystem zu COSMAS II am IDS entwickelt und steht seit einiger Zeit
+unter https://korap.ids-mannheim.de/ öffentlich zur Verfügung. Im Rahmen des Kaleidoskops
+stellen wir am Beispiel von Wikipedia-Diskussionen aus DeReKo neue Recherchemöglichkeiten für Social-Media-Korpora mit KorAP vor und berichten über aktuelle und geplante Entwicklungen. Außerdem können Sie an unserem Stand mit Hilfe einer VR-Brille unseren
+virtuellen “Wortraum” durchfliegen und den distributionell-semantischen Raum der WikipediaDiskussionen selbst explorieren. 

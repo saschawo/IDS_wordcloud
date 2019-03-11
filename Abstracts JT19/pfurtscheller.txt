@@ -1,0 +1,20 @@
+Öffentliche Facebook-Seiten, betrieben von unterschiedlichsten gesellschaftlichen Akteuren,
+sind reichhaltige sites of engagement zwischen Institutionen, Gruppen und Individuen. Um an
+Nachrichten zu kommen und sich öffentlich über Themen auszutauschen ist Facebook im
+deutschsprachigen Raum nach wie vor das meistgenutzte Soziale Medium (Facebook 2018;
+Newman et al. 2018). Im Vergleich zu anderen Plattformen gewährt Facebook aber nur einen
+eingeschränkten maschinellen Zugriff auf diese Sprach- und Interaktionsdaten. Die
+Möglichkeiten wurden mehrfach und im Nachgang des Cambridge-Analytica-Datenskandals
+noch einmal deutlich zurückgefahren (Freelon 2018). Davon sind auch die wenigen
+bestehenden Softwaretools wie z. B. netvizz (Rieder 2013) betroffen. Neben praktischen und
+ethischen Problemen, die sich bei der Sammlung, Speicherung, Aufbereitung und
+Visualisierung von Facebook-Daten stellen, ist für die Linguistik auch der Umgang mit der
+formal-semiotischen Strukturierung von Sprachverwendung durch die Plattform und die dabei
+ermöglichte Multimodalität, Dynamik und Ephemeralität der Kommunikation eine
+Herausforderung. Die Untersuchung öffentlicher Sprachverwendung in Sozialen Medien muss
+mediatisierte Praktiken in den Blick nehmen, die durch die Plattformen, ihre Algorithmen,
+Affordanzen und ihr visuelles Design vorstrukturiert werden und „formatiert“ in Erscheinung
+treten (Androutsopoulos 2016). In diesem Zusammenhang bietet mein Beitrag die Gelegenheit,
+sich über Best-Practice-Lösungen auszutauschen, Möglichkeiten der Datensammlung (per
+Facebook-API und On-Screen) zu vergleichen, Software auszuprobieren und sich weiter zu
+vernetzen. 

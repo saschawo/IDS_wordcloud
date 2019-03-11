@@ -1,0 +1,15 @@
+Im Projekt fussballlinguistik.de baue ich Korpora mit schriftlichen und seit neuestem auch
+mündlichen Texte aus dem Bereich der Fußballberichterstattung auf und mache sie über ein
+webbasiertes Tool der Fachöffentlichkeit zugänglich. Begleitend dazu veröffentliche ich laufend
+Ergebnisse meiner Forschungsarbeit mit diesen Daten auf dem gleichnamigen, an ein größeres
+Publikum gerichteten Blog. Für die Aufgabe des Wissenschaftstransfers bzw. der Public
+Humanities haben sich die sozialen Medien, insbesondere Twitter, als geeignete Schnittstellen
+mit dem äußerst lebendigen Diskurs der Fußballfans erwiesen. Zum einen können via Twitter
+Einblicke in laufende Forschung rasch publiziert oder Links zu Forschungsergebnissen
+verbreitet werden. Zum anderen können die technischen Rahmenbedingungen von Twitter
+genutzt werden, um etwa mithilfe von Bots die Aufgabenfelder und Möglichkeiten der Digital
+Humanities live vorzuführen. Auf letzteren Aspekt richtet sich der Fokus meines Messestandes:
+Unter anderem am Beispiel des Twitterbots @randomlivetext, der auf der Grundlage großer
+Livetickerkorpora zufällige Livetickermeldungen generiert, zeige ich, wie auf diesem Wege das
+Forschungsfeld der Korpuslinguistik spielerisch, aber methodisch transparent vermittelt werden
+kann. 

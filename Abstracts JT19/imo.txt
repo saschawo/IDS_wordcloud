@@ -1,0 +1,31 @@
+Die linguistische Genderforschung kann inzwischen auf eine lange Geschichte
+zurückblicken: In den Anfängen ging es vor allem um Fragen, ob es so etwas wie
+‚Frauensprache‘ oder ‚Männersprache‘ gibt, ob Frauen und Männer ‚zwei Kulturen‘
+angehören, was sich dann entsprechend in der Sprache zeigen sollte, oder inwiefern
+Sprache selbst diskriminierend wirkt, indem Frauen ‚unsichtbar‘ gemacht werden. Mit
+zunehmender Zahl an empirischen Untersuchungen vor allem zu Gender in der
+gesprochenen Sprache wurde allerdings schnell deutlich, dass pauschalisierende
+Äußerungen über gendertypischen Sprachgebrauch nicht zu halten sind. Der Fokus wurde
+nun vor allem auf lokale Prozesse des ‚doing‘ oder ‚undoing‘ oder ‚indexing‘ Gender gelegt.
+Mit dem Aufkommen der computervermittelten Kommunikation kamen neue
+Forschungsfragen hinzu: Frühe Arbeiten zur Kommunikation im Internet gingen davon aus,
+dass vor allem durch die Tatsache der inhärent demokratischen Organisation des Internet
+mit einfachen Zugangswegen und auch durch die Möglichkeit, beispielsweise über
+Nicknames ohne Gendermarkierung kommunizieren zu können, zu einer Nivellierung von
+sprachlichen Genderdifferenzen führe. Gerade der Bereich der computervermittelten
+Kommunikation bietet sich in mehrerlei Hinsicht aktuell für genderbezogene Forschung an:
+Nicht nur deswegen, weil es in diesem Bereich verglichen mit der gesprochenen Sprache
+deutlich weniger Forschungsarbeiten gibt, sondern vor allem deswegen, weil in den letzten
+Jahren der Aufbau von Datenkorpora in diesem Bereich einen deutlichen Fortschritt gemacht
+hat. Mit zunehmender Datenmenge und der immer besseren Nutzbarkeit wissenschaftlicher
+Korpora mit CMC-Daten (CMC = computer-mediated communication) dank der
+Fortentwicklung von Korpustechnologie ist es nun möglich, sowohl quantitativ als auch
+qualitativ der Frage nachzugehen, an welchen Stellen in Interaktionen – und, idealerweise,
+aus welchen Gründen – sich gendertypische sprachliche Variation zeigt. Zudem ist mit
+Emoticons und Emojis ein weiterer neuer Untersuchungsgegenstand hinzugekommen. Diese
+erfüllen als nonverbale Kommunikationsmittel vor allem im Bereich der Herstellung von
+Nähe, Emotionalität und Gruppenzugehörigkeit Funktionen, die aus einer genderperspektive
+relevant sind. Der vorliegende Beitrag wird auf der Basis der überarbeiteten, seit Mai 2018
+eingerichteten Mobile Communication Database 2 (MoCoDa2) qualitativ und quantitativ nach
+den Unterschieden und möglichen Erklärungen dafür im Emojigebrauch von Männern und
+Frauen fragen.
